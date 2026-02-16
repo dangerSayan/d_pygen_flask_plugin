@@ -1,1 +1,7 @@
+{
+  "name": "flask",
+  "version": "1.0.0",
+  "description": "Flask web application template",
+  "author": "dangerSayan"
+}
 
